@@ -28,6 +28,8 @@ Reuse Configuration with Modules:  Create and use Terraform modules to organize 
 
 
 
+
+
 ## **AWS Elastic Kubernetes Service**
 
 
@@ -80,9 +82,11 @@ Reuse Configuration with Modules:  Create and use Terraform modules to organize 
 ![image](https://github.com/Namg04/terraform-module/assets/61374484/d67322c1-a5b7-45b6-a4d5-20ebcf6d1c0c)
 
 
+
 **6. sg.tf**
 
 ![image](https://github.com/Namg04/terraform-module/assets/61374484/fcff8826-ceb4-4cbb-84f5-66a69431573c)
+
 
 
 
@@ -92,6 +96,9 @@ Reuse Configuration with Modules:  Create and use Terraform modules to organize 
 
 
    
+
+
+
 
 # **Terraform eks-using-terraform-modules**
 
@@ -124,6 +131,8 @@ Reuse Configuration with Modules:  Create and use Terraform modules to organize 
 **6. vpc.tf**
 
 ![image](https://github.com/Namg04/terraform-module/assets/61374484/3af15841-1a63-42be-bebb-02198295779b)
+
+
 
 
 # **Execute terraform**  
