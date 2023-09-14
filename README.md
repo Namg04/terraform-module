@@ -1,6 +1,6 @@
 
 
-# **Terraform EKS infra using Module**
+# **Terraform project using Module**
 
 ## **Terraform Module**
 
@@ -88,8 +88,6 @@ Reuse Configuration with Modules:  Create and use Terraform modules to organize 
 ![image](https://github.com/Namg04/terraform-module/assets/61374484/fcff8826-ceb4-4cbb-84f5-66a69431573c)
 
 
-
-
 **7. vpc.tf**
 
 ![image](https://github.com/Namg04/terraform-module/assets/61374484/1f73fa2d-8881-479c-877a-cb86e8032e1c)
@@ -160,9 +158,7 @@ Reuse Configuration with Modules:  Create and use Terraform modules to organize 
 ![image](https://github.com/Namg04/terraform-module/assets/61374484/312ba43f-d664-4dc2-b8da-5b9be56c72cb)
 
 
-
 # **Validate created EKS Infra**
-
 
 **2 ec2 instances created Prod and dev**
 
